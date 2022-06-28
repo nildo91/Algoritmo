@@ -1,11 +1,6 @@
-Algoritmo "semnome"
-// Disciplina   : [Linguagem e Lógica de Programação]
-// Professor   : Antonio Carlos Nicolodi 
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Nome do(a) aluno(a)
-// Data atual  : 23/06/2022
+Algoritmo "menu cadastro"
+
 Var
-// Seção de Declarações das variáveis 
 
 pessoas: vetor [1..10, 1..4] de caractere
 mensagens: vetor[1..4] de caractere
@@ -15,7 +10,6 @@ n: inteiro
 consulta: inteiro
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc... 
 
 mensagens[1] <- "Nome completo: "
 mensagens[2] <- "CPF: "
